@@ -5,8 +5,6 @@ import 'flatpickr/dist/flatpickr.min.css';
 
 import Notiflix from 'notiflix';
 
-console.log(Notiflix);
-
 // Отримати розмітку HTML
 const dateTimePicker = document.querySelector('#datetime-picker');
 const btnStart = document.querySelector('[data-start]');
